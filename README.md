@@ -1,5 +1,5 @@
 # Hi there, I'm Serguei Filitchonok! 👋
-**Full-Stack Web Developer (PHP / JavaScript)**
+### Full-Stack Web Developer (PHP / JavaScript)
 
 Experienced software engineer with over 15 years of hands-on experience in building complex, high-load web applications, e-learning platforms, and custom SaaS solutions. Expert in Joomla CMS.
 
